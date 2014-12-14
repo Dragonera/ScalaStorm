@@ -1,6 +1,10 @@
 .idea
 .idea_modules
 *.iml
-target
+target/resolution-cache
+target/streams
+target/config-classes
+target/scala*/classes
 project/boot
 project/target
+
